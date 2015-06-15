@@ -1,0 +1,29 @@
+div#grid {
+	display:block;
+	height:15px;
+	width:15px;
+	background-color:black;
+}
+
+#container {
+	overflow:auto;
+	width:622px;
+	height:622px;
+	margin:auto;
+}
+
+#buttons {
+	margin:30px auto;
+	width:300px;
+}
+
+div#grid.red {
+	background-color:red;
+}
+
+li {
+	display:inline-block;
+	list-style-type:none;
+	margin-left:auto;
+	margin-right:auto;
+}
